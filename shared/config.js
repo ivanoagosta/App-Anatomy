@@ -4,7 +4,7 @@ var config = {
       'This app demonstrates how to use client-side packages to configure element positioning and present different UI themes.',
       'It also shows how to pull content from the cloud.',
       'Click through the other tabs for more information and tips.',
-      'Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full documentation on using packages. Terza modifica by Ivano Agosta'
+      ' Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full documentation on using packages. Terza modifica by Ivano Agosta'
     ],
     tab2: [
       'The "default" package contains the core of the app. It is represented by the directory /client/default.',
